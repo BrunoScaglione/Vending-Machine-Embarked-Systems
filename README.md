@@ -3,7 +3,7 @@ Vending Machine software in C
 </h1>
 
 <p align="center">
-    This project is part of the Embarked Systems Course from the department of Mechatronics of the University of São Paulo (USP).
+    This project is part of the Embedded Systems Course from the department of Mechatronics of the University of São Paulo (USP).
     It is a software for a Vending Machine. The main goals of the project were to translate how a real Vending Machine operates into needs, requirements and
     software specifications, along with following a UML-based software development project plan. 
 </p>
@@ -36,4 +36,4 @@ Open **vendingmachine.cbp** in CodeBlocks as a project. Build and run.
 
 ## Project Details
 
-You can check [my report](https://github.com/BrunoScaglione/Vending-Machine-Embarked-Systems/blob/main/Vending_Machine_.pdf) (in Portuguese) for more details on the project.
+You can check [my report](https://github.com/BrunoScaglione/Vending-Machine-Embedded-Systems/blob/main/Vending_Machine_.pdf) (in Portuguese) for more details on the project.
