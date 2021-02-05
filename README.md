@@ -11,17 +11,18 @@ Vending Machine software in C
 ## Description
 
 The software developed simulates a Vending Machine and all it's functionalities for a tipical client and management crew. The real interface of the vending machine becomes
-your own computer and you can be the custumer or the maaging crew.
+your own computer and you can be the custumer or the manager.
 
 ### Typical Use Case
 
 The customer inserts the amount of money in coins, picks the product (or cancels the purchase), then the machine
-releases the product, the change (or returns the money if canceled).
+releases the product and the change (or returns the money if canceled).
 
-The manager first authenticates himself by inserting a password which gives him access to the internal part
-of the machine. Then the manager replaces products and change manually, and then registers the amount of each product and coin replaced in the system.
+The manager first authenticates himself by inserting a password, which gives him access to the internal part
+of the machine. The manager replaces products and change manually, next he registers the amount of each product and coin replaced in the system.
 
 ## Getting Started
+
 
 
 ## Project Details
