@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1588606857 source:c:\users\bruno\desktop\c programing\db_caixa_de_troco.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"definicoes_sistema.h"
+	"db_caixa_de_troco.h"
+
+1588592582 c:\users\bruno\desktop\c programing\definicoes_sistema.h
+
+1588606857 c:\users\bruno\desktop\c programing\db_caixa_de_troco.h
+
+1588655599 source:c:\users\bruno\desktop\c programing\db_produtos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"definicoes_sistema.h"
+	"db_produtos.h"
+
+1588655599 c:\users\bruno\desktop\c programing\db_produtos.h
+
+1588590062 source:c:\users\bruno\desktop\c programing\display.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"definicoes_sistema.h"
+	"display.h"
+
+1588508020 c:\users\bruno\desktop\c programing\display.h
+
+1588714040 source:c:\users\bruno\desktop\c programing\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"definicoes_sistema.h"
+	"atuadores.h"
+	"db_caixa_de_troco.h"
+	"db_produtos.h"
+	"display.h"
+	"sensores.h"
+	"sist_autenticacao.h"
+	"sist_recebimento_dinheiro.h"
+	"teclados.h"
+	"timer.h"
+
+1588634976 c:\users\bruno\desktop\c programing\atuadores.h
+
+1588610380 c:\users\bruno\desktop\c programing\sensores.h
+
+1588610575 c:\users\bruno\desktop\c programing\sist_autenticacao.h
+
+1588416707 c:\users\bruno\desktop\c programing\sist_recebimento_dinheiro.h
+
+1588619294 c:\users\bruno\desktop\c programing\teclados.h
+
+1588507069 c:\users\bruno\desktop\c programing\timer.h
+
+1588714037 source:c:\users\bruno\desktop\c programing\sensores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"definicoes_sistema.h"
+	"sensores.h"
+
+1588512761 source:c:\users\bruno\desktop\c programing\sist_autenticacao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"definicoes_sistema.h"
+	"sist_autenticacao.h"
+
+1588508904 source:c:\users\bruno\desktop\c programing\sist_recebimento_dinheiro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"definicoes_sistema.h"
+	"sist_recebimento_dinheiro.h"
+
+1588714035 source:c:\users\bruno\desktop\c programing\teclados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"definicoes_sistema.h"
+	"teclados.h"
+
+1588507069 source:c:\users\bruno\desktop\c programing\timer.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"definicoes_sistema.h"
+	"timer.h"
+
+1588714038 source:c:\users\bruno\desktop\c programing\atuadores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"definicoes_sistema.h"
+	"atuadores.h"
+
