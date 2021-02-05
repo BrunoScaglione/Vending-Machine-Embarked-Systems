@@ -23,7 +23,16 @@ of the machine. The manager replaces products and change manually, next he regis
 
 ## Getting Started
 
+### Running in the terminal
 
+```bash
+cd bin/Debug
+vendingmachine
+```
+
+### With CodeBlocks
+
+Open **vendingmachine.cbp** in CodeBlocks as a project. Build and run.
 
 ## Project Details
 
